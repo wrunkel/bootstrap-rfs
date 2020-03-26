@@ -7181,7 +7181,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 .title {
-  font-size: calc(1.525rem + 3.3vw); }
-  @media (min-width: 1200px) {
+  font-size: 4rem; }
+  @media (max-width: 1200px) {
     .title {
-      font-size: 4rem; } }
+      font-size: calc(1.525rem + 3.3vw) ; } }
