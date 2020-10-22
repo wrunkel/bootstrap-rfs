@@ -5,8 +5,8 @@
   "main": "index.html",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
-    "node-sass": "^4.13.1",
+    "jquery": "^3.5.0",
+    "node-sass": "^4.14.1",
     "popper.js": "^1.16.1"
   },
   "devDependencies": {},
